@@ -1,0 +1,15 @@
+h1 {
+    font-family:"Lobster";
+    font-size:5rem;
+    color:#f79c14;
+    text-shadow: 3px 3px #000000;
+}
+
+.nav-link:hover {
+    background-color:#f79c14;
+}
+
+.active {
+    background-color:#f79c14;
+    color: black !important;
+}
