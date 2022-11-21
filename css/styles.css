@@ -1,10 +1,14 @@
-h1 {
+.stylized-text {
     font-family:"Lobster";
-    font-size:5rem;
+    font-size:10rem;
     color:#f79c14;
     text-shadow: 3px 3px #000000;
 }
 
+.big-p {
+    font-size: 5rem;
+    font-weight: bold;
+}
 .nav-link:hover {
     background-color:#f79c14;
 }
@@ -12,4 +16,20 @@ h1 {
 .active {
     background-color:#f79c14;
     color: black !important;
+}
+
+.content-block-1 {
+    height: 50rem;
+    width: 100%;
+    background-color: #f79c14;
+}
+
+.content-block-2 {
+    height: 50rem;
+    width: 100%;
+    background-color: #000;
+}
+
+.bg-orange {
+    background-color: #f79c14
 }
