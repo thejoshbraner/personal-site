@@ -1,0 +1,46 @@
+$orange: #FFBF69;
+body {
+    background-color: #212529;
+}
+
+.skill-card {
+    width: 100%;
+}
+.profilepic {
+    height:20rem;
+    width: fit-content;
+    box-shadow: 10px 10px 0px #00000017;
+}
+
+.stylized-text {
+    font-family:"Lobster";
+    font-size:3rem;
+    color:$orange;
+}
+
+.big-p {
+    font-size: 5rem;
+    font-weight: bold;
+}
+.nav-link:hover {
+    background-color:$orange;
+}
+
+/* .active {
+    background-color:#f79c14;
+    color: black !important;
+} */
+
+.content-block-1 {
+    background-color: $orange;
+}
+
+.content-block-2 {
+    height: 20rem;
+    width: 100%;
+    background-color: #000;
+}
+
+.bg-orange {
+    background-color: $orange;
+}
